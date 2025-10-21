@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://114.231.47.195:8200/TVOD/5000000004000002226/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://114.231.47.195:8200/TVOD/5000000011000031101/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://114.231.47.195:8200/TVOD/6000000001000022313/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://114.231.47.195:8200/TVOD/5000000011000031102/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://114.231.47.195:8200/TVOD/6000000001000016431/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://114.231.47.195:8200/TVOD/6000000001000004574/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://114.231.47.195:8200/TVOD/6000000001000009055/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://114.231.47.195:8200/TVOD/6000000001000001070/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://114.231.47.195:8200/TVOD/1000000001000028286/ystenlive/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://114.231.47.195:8200/TVOD/5000000010000016738/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://114.231.47.195:8200/TVOD/5000000011000031106/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://114.231.47.195:8200/TVOD/6000000001000022586/wasusyt/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://114.231.47.195:8200/TVOD/1000000002000021303/ystenlive/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://114.231.47.195:8200/TVOD/5000000004000006673/bestzb/index.m3u8?
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://114.231.47.195:8200/TVOD/1000000006000233001/ystenlive/index.m3u8?
+
+#EXTINF:-1 tvg-id="1" tvg-name="舌尖上的中国第一季" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/sjsdzg.png" group-title="舌尖上的中国",舌尖上的中国第一季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/1200.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="舌尖上的中国第二季" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/sjsdzg.png" group-title="舌尖上的中国",舌尖上的中国第二季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/1200.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="舌尖上的中国第三季" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/sjsdzg.png" group-title="舌尖上的中国",舌尖上的中国第三季
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac775a6725274dcdb1fa9bbe90747bf4/1200.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="春晚爆笑经典小品" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/xpxs.png" group-title="小品相声",春晚爆笑经典小品
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="周星驰专辑" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/zxc.png" group-title="解闷",周星驰专辑
+http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="成龙经典" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/cl.png" group-title="解闷",成龙经典
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="动画" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/dh.png" group-title="动画",合家欢动画片
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418067-1524418067-6547325743196536832-3048959590-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="动画" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/dh.png" group-title="动画",迪士尼经典动画
+http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543153988-1239543153988-11135015130801111040-2479086431432-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/fhzx.png" group-title="凤凰",凤凰资讯
+http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="电影" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/1905.png" group-title="央视",1905国内电影
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-id="1" tvg-name="电影" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/1905.png" group-title="央视",1905国外电影
+http://php.jdshipin.com:8880/1905.php?id=1905dy2
+
+#EXTINF:-1 tvg-id="1" tvg-name="搞笑恐怖" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/CCTV/kb.png" group-title="恐怖电影",搞笑恐怖
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="林正英搞笑僵尸系列" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/lzy.png" group-title="恐怖电影",林正英搞笑僵尸系列
+http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="金庸的武侠世界" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/jy.png" group-title="动作电影",金庸的武侠世界
+http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="邱淑贞 王祖贤 张曼玉合集" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/dz.png" group-title="动作电影",邱淑贞 王祖贤 张曼玉合集
+http://182.40.120.183/test-txdwk.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="许氏三杰" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/xssj.png" group-title="动作电影",许氏三杰
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="1" tvg-name="科幻史诗巨作" tvg-logo="https://gitee.com/zqt2000/zqt2000/raw/master/logo/xssj.png" group-title="科幻电影",科幻史诗巨作
+http://182.40.120.183/test-txdwk.flv.huya.com/src/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.flv
